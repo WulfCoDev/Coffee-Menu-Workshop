@@ -45,7 +45,7 @@ const coffeeMenu = [
     },
     {
         name: "frappe",
-        price: "8",
+        price: 8,
         seasonal: false,
     },
     {
